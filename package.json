@@ -1,0 +1,23 @@
+{
+  "name": "gql-schema-inspector",
+  "version": "0.1.0",
+  "description": "A collections of getter functions that inspect over a graphql schema and retrive the desired type, query or mutation.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalidfsh/gql-schema-inspector.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "tools"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khalidfsh/gql-schema-inspector/issues"
+  },
+  "homepage": "https://github.com/khalidfsh/gql-schema-inspector#readme"
+}
