@@ -4,7 +4,8 @@
   "description": "A collections of getter functions that inspect over a graphql schema and retrive the desired type, query or mutation.",
   "main": "src/index.ts",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
